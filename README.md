@@ -20,13 +20,8 @@ I'm experienced as Software Quality Assurance with work experience two years 11 
 I'm a good, beautiful, brilliant, and funny girl.
 
 ### 💬 Let's Connect!
-<div>
-  <p> <img href="" src="https://via.placeholder.com/300" alt="Circular Image" class="circle">Gmail: megaspasaribu@gmail.com</p>
-</div>
-
-- Email: john.doe@example.com
-- LinkedIn: [https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [https://github.com/johndoe](https://github.com/johndoe)
+- 📧 Email: megaspasaribu@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/mega-sari-pasaribu
 
 
 
